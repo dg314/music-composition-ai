@@ -1,6 +1,6 @@
 # Creative Computers for Music Composition
 
-For my Senior Capstone, I conducted a year-long research project on the effectiveness of AI in creative tasks like music composition.
+For my Senior Capstone, I conducted a year-long research project on the effectiveness of neural networks in music composition.
 
 ## Video Presentation
 
